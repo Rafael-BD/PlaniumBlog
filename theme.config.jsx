@@ -1,6 +1,6 @@
 /* eslint-disable import/no-anonymous-default-export */
 export default {
-    footer: <p>MIT 2023 © Nextra.</p>,
+    footer: <p>Planium App 2024.</p>,
     head: ({ title, meta }) => (
         <>
             {meta.description && (
@@ -12,11 +12,7 @@ export default {
     ),
     readMore: 'Read More →',
     postFooter: null,
-    darkMode: false,
+    darkMode: true,
     navs: [
-        {
-            url: 'https://github.com/shuding/nextra',
-            name: 'Nextra'
-        }
     ]
 }

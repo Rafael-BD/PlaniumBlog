@@ -1,0 +1,50 @@
+# Política de Privacidade do Aplicativo Planium
+
+**Data de Vigência:** 17/01/2024
+
+## 1. Informações Coletadas
+
+### 1.1 Informações do Usuário
+Ao utilizar o aplicativo Planium, coletamos e armazenamos informações pessoais, incluindo, mas não se limitando a, nome de usuário, endereço de e-mail, senha e preferências do usuário.
+
+### 1.2 Dados de Localização
+Para oferecer funcionalidades como previsão do tempo e informações de tráfego, o aplicativo pode coletar dados de localização do dispositivo.
+
+### 1.3 Dados de Uso
+Registramos informações sobre o uso do aplicativo, incluindo interações com tarefas, preferências do usuário e dados relacionados ao uso da inteligência artificial.
+
+## 2. Finalidades da Coleta
+
+### 2.1 Operação do Aplicativo
+Utilizamos as informações coletadas para operar, manter e melhorar o funcionamento do aplicativo, incluindo a personalização de recomendações e alertas.
+
+### 2.2 Comunicações
+Podemos utilizar o endereço de e-mail fornecido para enviar notificações, informações sobre o aplicativo, atualizações e ofertas especiais.
+
+## 3. Compartilhamento de Dados
+
+### 3.1 Terceiros
+Não compartilhamos informações pessoais com terceiros, exceto quando necessário para fornecer serviços específicos, como integração com serviços climáticos e de tráfego.
+
+## 4. Segurança de Dados
+
+### 4.1 Medidas de Segurança
+Implementamos medidas de segurança para proteger as informações do usuário contra acesso não autorizado, alteração, divulgação ou destruição não autorizada.
+
+## 5. Direitos do Usuário
+
+### 5.1 Acesso e Modificação
+Os usuários têm o direito de acessar e modificar suas informações pessoais por meio das configurações do aplicativo.
+
+### 5.2 Exclusão de Conta
+Os usuários podem solicitar a exclusão de suas contas, resultando na exclusão automática de seus dados.
+
+## 6. Atualizações da Política de Privacidade
+
+### 6.1 Notificações de Alterações
+Os usuários serão notificados sobre alterações nesta Política de Privacidade por meio de notificações no aplicativo ou por e-mail.
+
+## 7. Contato
+
+### 7.1 Suporte ao Usuário
+Para entrar em contato com o suporte ao usuário ou fazer perguntas relacionadas a esta Política de Privacidade, utilize o seguinte endereço de e-mail: planium.support@proton.me.
